@@ -1,0 +1,21 @@
+{
+  "name": "typescriptexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.2",
+    "webpack": "^4.32.0"
+  },
+  "devDependencies": {
+    "micromatch": "^3.1.10",
+    "ts-loader": "^5.4.5",
+    "typescript": "^3.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC"
+}
